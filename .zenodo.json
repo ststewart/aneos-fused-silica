@@ -1,0 +1,22 @@
+{
+    "creators": [
+        {
+            "orcid": "0000-0001-9606-1593",
+            "affiliation": "Arizona State University",
+            "name": "Stewart, Sarah T."
+        },
+        {
+            "orcid": "0000-0002-5869-1137",
+            "affiliation": "Sandia National Laboratories",
+            "name": "Amodeo, Kaitlyn A."
+        }
+    ],
+
+    "license": "GPL-3.0",
+
+    "title": "ANEOS Equation of State Model for Fused Silica",
+
+    "keywords": ["Equation of state", "ANEOS", "fused silica", "SiO2"],
+
+    "grants": [{"id":"DOE-NNSA DE-NA0003842 and DE-NA0004147"}]
+}
