@@ -1,6 +1,8 @@
 # ANEOS MODEL FOR FUSED SILICA<br>
 
-<b>Citation:  Sarah T. Stewart and Kaitlyn M. Amodeo (2024). ANEOS Equation of State Model for Fused Silica. Zenodo. http://doi.org/10.5281/zenodo.XXX</b><p>
+<b>Citation:  Sarah T. Stewart and Kaitlyn M. Amodeo (2024). ANEOS Equation of State Model for Fused Silica. Zenodo. http://doi.org/10.5281/zenodo.14226685</b><p>
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14226685.svg)](https://doi.org/10.5281/zenodo.14226685)
 
 Open aneos_fused_silica_v0.2.ipynb or aneos_fused_silica_v0.2.html<p>
 
